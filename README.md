@@ -1,4 +1,4 @@
-####🛳️ Titanic Survival Prediction – End-to-End ML Model
+<h1>🛳️ Titanic Survival Prediction – End-to-End ML Model</h1>
 
 This project is an end-to-end Machine Learning pipeline built using the famous Titanic dataset (Kaggle). It predicts passenger survival by performing data preprocessing, feature engineering, model training, hyperparameter tuning, and evaluation – all wrapped in a clean and reproducible workflow.
 <br>
