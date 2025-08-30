@@ -3,7 +3,7 @@
 This project is an end-to-end Machine Learning pipeline built using the famous Titanic dataset (Kaggle). It predicts passenger survival by performing data preprocessing, feature engineering, model training, hyperparameter tuning, and evaluation – all wrapped in a clean and reproducible workflow.
 <br>
 
-✨ Features
+<h1>✨ Features</h1>
 <br>
 
 ✅ Data Cleaning & Imputation – Handling missing values (Age, Embarked, etc.)
@@ -15,8 +15,8 @@ This project is an end-to-end Machine Learning pipeline built using the famous T
 ✅ Model Training – Random Forest Classifier with GridSearchCV for hyperparameter tuning<br>
 ✅ Evaluation – Accuracy scores on train/test sets and insights into feature importance<br>
 
-🛠️ Tech Stack<br>
-
+<h1>🛠️ Tech Stack</h1>
+<br>
 1. Python 3<br>
 2.Pandas / NumPy – Data manipulation<br>
 3.Matplotlib / Seaborn – Visualization<br>
